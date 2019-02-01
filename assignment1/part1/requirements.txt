@@ -1,0 +1,9 @@
+numpy
+theano
+keras
+matplotlib
+sklearn
+keras_sequential_ascii
+seaborn
+pandas
+tensorflow
